@@ -6,7 +6,7 @@ Display toilet status interface
 
 Predict traffic of toilet interface
 
-<img src="https://github.com/user-attachments/assets/62fc2910-1d6f-4049-9ddc-8623f178f4e5" width="142" height="238" />
+<img src="https://github.com/user-attachments/assets/62fc2910-1d6f-4049-9ddc-8623f178f4e5" width="283" height="475" />
 
 
 Indoor navigation
